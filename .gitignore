@@ -1,0 +1,10 @@
+*.log
+*.old
+*.tmp
+.session
+blib/
+data/
+dep/
+Makefile
+MYMETA.*
+pm_to_blib
